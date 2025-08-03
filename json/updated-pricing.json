@@ -1,43 +1,43 @@
 [
   {
     "id": 1,
-    "name": "Couch",
-    "basePrice": 95,
+    "name": "Couch (3-seater)",
+    "basePrice": 150,
     "addOnPrice": 50,
     "type": "Furniture"
   },
   {
     "id": 2,
     "name": "Coffee Table",
-    "basePrice": 95,
+    "basePrice": 150,
     "addOnPrice": 30,
     "type": "Furniture"
   },
   {
     "id": 3,
     "name": "Dining Table",
-    "basePrice": 95,
+    "basePrice": 150,
     "addOnPrice": 50,
     "type": "Furniture"
   },
   {
     "id": 4,
     "name": "Patio Table",
-    "basePrice": 95,
+    "basePrice": 150,
     "addOnPrice": 50,
     "type": "Furniture"
   },
   {
     "id": 5,
     "name": "Patio Chair",
-    "basePrice": 95,
+    "basePrice": 150,
     "addOnPrice": 10,
     "type": "Furniture"
   },
   {
     "id": 6,
     "name": "Mattress",
-    "basePrice": 95,
+    "basePrice": 150,
     "addOnPrice": 30,
     "type": "Furniture"
   },
@@ -86,42 +86,42 @@
   {
     "id": 13,
     "name": "Small Sectional (4 seater)",
-    "basePrice": 125,
+    "basePrice": 150,
     "addOnPrice": 50,
     "type": "Furniture"
   },
   {
     "id": 14,
     "name": "Standard Sectional (5 seater)",
-    "basePrice": 150,
+    "basePrice": 199,
     "addOnPrice": 75,
     "type": "Furniture"
   },
   {
     "id": 15,
     "name": "Large Sectional (6 seater)",
-    "basePrice": 185,
+    "basePrice": 250,
     "addOnPrice": 90,
     "type": "Furniture"
   },
   {
     "id": 16,
     "name": "XL Sectional (7+ seater)",
-    "basePrice": 225,
+    "basePrice": 300,
     "addOnPrice": 115,
     "type": "Furniture"
   },
   {
     "id": 17,
     "name": "Coffee Table",
-    "basePrice": 95,
+    "basePrice": 150,
     "addOnPrice": 50,
     "type": "Furniture"
   },
   {
     "id": 18,
     "name": "End Table",
-    "basePrice": 95,
+    "basePrice": 150,
     "addOnPrice": 10,
     "type": "Furniture"
   },
