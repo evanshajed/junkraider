@@ -1,0 +1,46 @@
+.team {
+  margin: 160px 0;
+  @include media(1000) {
+    margin: 80px 0;
+  }
+  &-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 24px;
+    @include media(1000) {
+      grid-template-columns: repeat(3, 1fr);
+    }
+    @include media(768) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    @include media(500) {
+      grid-template-columns: auto;
+    }
+  }
+  &-item {
+    h4 {
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 1;
+      margin: 20px 0 0;
+    }
+    span {
+      display: flex;
+      margin-top: 20px;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: (28/16);
+    }
+    &_img {
+      border-radius: 40px;
+      background: #F2F2F2;
+      overflow: hidden;
+      display: flex;
+      img {
+        @include object-fit;
+      }
+    }
+  }
+}

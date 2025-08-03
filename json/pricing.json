@@ -1,0 +1,650 @@
+[
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Couch",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Coffee Table",
+  "Column2": 95,
+  "Column3": 30
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Dining Table",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Patio Table",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Patio Chair",
+  "Column2": 95,
+  "Column3": 10
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Mattress",
+  "Column2": 95,
+  "Column3": 30
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Boxspring",
+  "Column2": 95,
+  "Column3": 30
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Dresser",
+  "Column2": 95,
+  "Column3": 30
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Recliner",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Side Table",
+  "Column2": 95,
+  "Column3": 10
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Dining Room Chair",
+  "Column2": 95,
+  "Column3": 10
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Oversized Chair",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Small Sectional (4 seater)",
+  "Column2": 125,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Standard Sectional (5 seater)",
+  "Column2": 150,
+  "Column3": 75
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Large Sectional (6 seater)",
+  "Column2": 185,
+  "Column3": 90
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "XL Sectional (7+ seater)",
+  "Column2": 225,
+  "Column3": 115
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Coffee Table",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "End Table",
+  "Column2": 95,
+  "Column3": 10
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Rocking Chair",
+  "Column2": 95,
+  "Column3": 10
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Small Armoire",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Standard Armoire",
+  "Column2": 150,
+  "Column3": 75
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Large Armoire",
+  "Column2": 185,
+  "Column3": 90
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "XL Armoire",
+  "Column2": 225,
+  "Column3": 115
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Small Entertainment Center",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Standard Entertainment Center",
+  "Column2": 150,
+  "Column3": 75
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Large Entertainment Center",
+  "Column2": 185,
+  "Column3": 90
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "XL Entertainment Center",
+  "Column2": 225,
+  "Column3": 115
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Adjustable Bed Base",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Small Aquarium",
+  "Column2": 95,
+  "Column3": 10
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Medium Aquarium",
+  "Column2": 125,
+  "Column3": 30
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Large Aquarium",
+  "Column2": 150,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "XL Aquarium",
+  "Column2": 225,
+  "Column3": 75
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Small Area Rug (Up to 6x9)",
+  "Column2": 95,
+  "Column3": 10
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Medium Area Rug (Up to 12x14)",
+  "Column2": 125,
+  "Column3": 25
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Large Area Rug (Over 12x14)",
+  "Column2": 150,
+  "Column3": 40
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Loveseat",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Bathtub (Cast Iron) ",
+  "Column2": 299,
+  "Column3": 200
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Bathtub (Porcelain)",
+  "Column2": 225,
+  "Column3": 150
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Bathtub (Fiberglass) ",
+  "Column2": 185,
+  "Column3": 125
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Bed Frame",
+  "Column2": 95,
+  "Column3": 10
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Small Bookshelf",
+  "Column2": 95,
+  "Column3": 20
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Standard Bookshelf",
+  "Column2": 125,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Large Bookshelf",
+  "Column2": 150,
+  "Column3": 75
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "XL Bookshelf",
+  "Column2": 185,
+  "Column3": 90
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Bike",
+  "Column2": 95,
+  "Column3": 10
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Bench",
+  "Column2": 95,
+  "Column3": 10
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Small Cabinet",
+  "Column2": 95,
+  "Column3": 20
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Standard Cabinet",
+  "Column2": 125,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Large Cabinet",
+  "Column2": 150,
+  "Column3": 75
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "XL Cabinet",
+  "Column2": 185,
+  "Column3": 90
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Chaise Lounge",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Chest",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Small China Cabinet",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Standard China Cabinet",
+  "Column2": 125,
+  "Column3": 60
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Large China Cabinet",
+  "Column2": 150,
+  "Column3": 70
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Daybed",
+  "Column2": 125,
+  "Column3": 60
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Grandfather Clock",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Small Desk",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Standard Desk (L Shaped)",
+  "Column2": 125,
+  "Column3": 60
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Large Desk ",
+  "Column2": 150,
+  "Column3": 70
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Small File Cabinet",
+  "Column2": 95,
+  "Column3": 20
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Large File Cabinet",
+  "Column2": 125,
+  "Column3": 60
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "XL Large File Cabinet",
+  "Column2": 150,
+  "Column3": 70
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Standard Upright Piano",
+  "Column2": 299,
+  "Column3": 249
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Large Upright Piano",
+  "Column2": 349,
+  "Column3": 299
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Baby Grand Piano ",
+  "Column2": 399,
+  "Column3": 349
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Grand Piano",
+  "Column2": 499,
+  "Column3": 399
+ },
+ null,
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Table 2: Electronics and Appliances"
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Item Type",
+  "Column2": "Base Price",
+  "Column5": "Notes"
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "TV",
+  "Column2": 95,
+  "Column3": 30
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Large TV",
+  "Column2": 125,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "XL TV",
+  "Column2": 150,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Washing Machine",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Dryer",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Refrigerator",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Small Treadmill",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Standard Treadmill",
+  "Column2": 150,
+  "Column3": 75
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Large Treadmill",
+  "Column2": 185,
+  "Column3": 90
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Small AC Unit",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Large AC Unit",
+  "Column2": 150,
+  "Column3": 75
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Standard Freezer",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Large Freezer",
+  "Column2": 150,
+  "Column3": 70
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Commercial Freezer",
+  "Column2": 299,
+  "Column3": 200
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Standard Refrigerator",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Large Refrigerator",
+  "Column2": 150,
+  "Column3": 70
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Commercial Refrigerator",
+  "Column2": 299,
+  "Column3": 200
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Microwave",
+  "Column2": 95,
+  "Column3": 20
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Dishwasher",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Small Ice Maker",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Commercial Ice Maker",
+  "Column2": 150,
+  "Column3": 70
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Small Vending Machine",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Large Vendine Machine",
+  "Column2": 150,
+  "Column3": 70
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "XL Vendine Machine",
+  "Column2": 225,
+  "Column3": 110
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Standard Elliptical ",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Commercial Elliptical",
+  "Column2": 150,
+  "Column3": 70
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Exercise Bike ",
+  "Column2": 95,
+  "Column3": 20
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Small Home Gym",
+  "Column2": 95,
+  "Column3": 40
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Medium Home Gym",
+  "Column2": 150,
+  "Column3": 70
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Large Home Gym",
+  "Column2": 299,
+  "Column3": 139
+ },
+ null,
+ null,
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Table 3: Outdoor Items"
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Outdoor Item",
+  "Column2": "Base Price",
+  "Column5": "Notes"
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Basketball Goal",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Small Hot Tub",
+  "Column2": 299,
+  "Column3": 200
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Standard Hot Tub",
+  "Column2": 399,
+  "Column3": 299
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Large Hot Tub",
+  "Column2": 499,
+  "Column3": 399
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Small Above Ground Pool (Disassembled)",
+  "Column2": 95,
+  "Column3": 45
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Large Above Ground Pool (Disassembled)",
+  "Column2": 175,
+  "Column3": 150
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "XL Above Ground Ppol (Disassembled)",
+  "Column2": 225,
+  "Column3": 200
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Push Lawnmower",
+  "Column2": 95,
+  "Column3": 30
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Riding Lawnmower",
+  "Column2": 95,
+  "Column3": 75
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Small Grill",
+  "Column2": 95,
+  "Column3": 45
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Small Shed (Disassembled)",
+  "Column2": 199,
+  "Column3": 149
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Medium Shed (Disassembled",
+  "Column2": 499,
+  "Column3": 399
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Large Shed (Disassembled)",
+  "Column2": 799,
+  "Column3": 699
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Trampoline (Disassembled)",
+  "Column2": 150,
+  "Column3": 95
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Deck Box",
+  "Column2": 95,
+  "Column3": 20
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Small Fountain",
+  "Column2": 95,
+  "Column3": 50
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Medium Fountain",
+  "Column2": 150,
+  "Column3": 70
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Large Fountain",
+  "Column2": 225,
+  "Column3": 110
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Small Planter Box\/Pot",
+  "Column2": 95,
+  "Column3": 10
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Medium Planter Box\/Pot",
+  "Column2": 125,
+  "Column3": 30
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Large Planter Box\/Pot",
+  "Column2": 150,
+  "Column3": 70
+ },
+ null,
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Table 4: Miscellaneous Items"
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Misc Item",
+  "Column2": "Base Price",
+  "Column5": "Notes"
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Cardboard Boxes",
+  "Column2": 95,
+  "Column3": 7
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Books, DVD's, CD's",
+  "Column2": 95,
+  "Column3": 7
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Trash Bag (Standard or Contractor)",
+  "Column2": 95,
+  "Column3": 7
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Small Unlisted Item",
+  "Column2": 95,
+  "Column3": 30
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Medium Unlisted Item",
+  "Column2": 150,
+  "Column3": 70
+ },
+ {
+  "Table 1: Furniture (Indoor vs Outdoor)": "Large Unlisted Item",
+  "Column2": 300,
+  "Column3": 140
+ }
+]

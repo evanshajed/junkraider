@@ -1,0 +1,26 @@
+/* Font-Face Mixin */
+@mixin font-face($font-family, $file-path, $weight: normal, $style: normal, $stretch: normal) {
+  @font-face {
+    font-family: $font-family;
+    font-weight: $weight;
+    font-style: $style;
+    font-stretch: $stretch;
+    font-display: swap;
+    src: url('#{$file-path}.woff') format('woff');
+  }
+}
+
+/* Media Queries Mixin */
+@mixin media($width) {
+  @media only screen and (max-width: #{$width}px) {
+    @content;
+  }
+}
+
+@mixin object-fit{
+  min-height: 100%;
+  min-width: 100%;
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: cover;
+}
