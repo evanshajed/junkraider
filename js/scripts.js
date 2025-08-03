@@ -804,43 +804,43 @@
   const updatedPricing = [
     {
       "id": 1,
-      "name": "Couch",
-      "basePrice": 119,
+      "name": "Couch (3-seater)",
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Furniture"
     },
     {
       "id": 2,
       "name": "Coffee Table",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 30,
       "type": "Furniture"
     },
     {
       "id": 3,
       "name": "Dining Table",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Furniture"
     },
     {
       "id": 4,
       "name": "Patio Table",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Furniture"
     },
     {
       "id": 5,
       "name": "Patio Chair",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 10,
       "type": "Furniture"
     },
     {
       "id": 6,
       "name": "Mattress",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 30,
       "type": "Furniture"
     },
@@ -917,7 +917,7 @@
     {
       "id": 17,
       "name": "Coffee Table",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Furniture"
     },

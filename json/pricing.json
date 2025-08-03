@@ -1,32 +1,32 @@
 [
  {
-  "Table 1: Furniture (Indoor vs Outdoor)": "Couch",
-  "Column2": 95,
+  "Table 1: Furniture (Indoor vs Outdoor)": "Couch (3-seater)",
+  "Column2": 150,
   "Column3": 50
  },
  {
   "Table 1: Furniture (Indoor vs Outdoor)": "Coffee Table",
-  "Column2": 95,
+  "Column2": 150,
   "Column3": 30
  },
  {
   "Table 1: Furniture (Indoor vs Outdoor)": "Dining Table",
-  "Column2": 95,
+  "Column2": 150,
   "Column3": 50
  },
  {
   "Table 1: Furniture (Indoor vs Outdoor)": "Patio Table",
-  "Column2": 95,
+  "Column2": 150,
   "Column3": 50
  },
  {
   "Table 1: Furniture (Indoor vs Outdoor)": "Patio Chair",
-  "Column2": 95,
+  "Column2": 150,
   "Column3": 10
  },
  {
   "Table 1: Furniture (Indoor vs Outdoor)": "Mattress",
-  "Column2": 95,
+  "Column2": 150,
   "Column3": 30
  },
  {
@@ -81,7 +81,7 @@
  },
  {
   "Table 1: Furniture (Indoor vs Outdoor)": "Coffee Table",
-  "Column2": 95,
+  "Column2": 150,
   "Column3": 50
  },
  {
