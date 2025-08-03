@@ -889,28 +889,28 @@
     {
       "id": 13,
       "name": "Small Sectional (4 seater)",
-      "basePrice": 125,
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Furniture"
     },
     {
       "id": 14,
       "name": "Standard Sectional (5 seater)",
-      "basePrice": 150,
+      "basePrice": 199,
       "addOnPrice": 75,
       "type": "Furniture"
     },
     {
       "id": 15,
       "name": "Large Sectional (6 seater)",
-      "basePrice": 185,
+      "basePrice": 250,
       "addOnPrice": 90,
       "type": "Furniture"
     },
     {
       "id": 16,
       "name": "XL Sectional (7+ seater)",
-      "basePrice": 225,
+      "basePrice": 300,
       "addOnPrice": 115,
       "type": "Furniture"
     },
@@ -924,7 +924,7 @@
     {
       "id": 18,
       "name": "End Table",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 10,
       "type": "Furniture"
     },

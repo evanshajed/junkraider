@@ -61,22 +61,22 @@
  },
  {
   "Table 1: Furniture (Indoor vs Outdoor)": "Small Sectional (4 seater)",
-  "Column2": 125,
+  "Column2": 150,
   "Column3": 50
  },
  {
   "Table 1: Furniture (Indoor vs Outdoor)": "Standard Sectional (5 seater)",
-  "Column2": 150,
+  "Column2": 199,
   "Column3": 75
  },
  {
   "Table 1: Furniture (Indoor vs Outdoor)": "Large Sectional (6 seater)",
-  "Column2": 185,
+  "Column2": 250,
   "Column3": 90
  },
  {
   "Table 1: Furniture (Indoor vs Outdoor)": "XL Sectional (7+ seater)",
-  "Column2": 225,
+  "Column2": 300,
   "Column3": 115
  },
  {
@@ -86,7 +86,7 @@
  },
  {
   "Table 1: Furniture (Indoor vs Outdoor)": "End Table",
-  "Column2": 95,
+  "Column2": 150,
   "Column3": 10
  },
  {
