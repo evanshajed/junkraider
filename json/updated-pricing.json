@@ -135,112 +135,112 @@
   {
     "id": 20,
     "name": "Small Armoire",
-    "basePrice": 95,
+    "basePrice": 150,
     "addOnPrice": 50,
     "type": "Furniture"
   },
   {
     "id": 21,
     "name": "Standard Armoire",
-    "basePrice": 150,
+    "basePrice": 199,
     "addOnPrice": 75,
     "type": "Furniture"
   },
   {
     "id": 22,
     "name": "Large Armoire",
-    "basePrice": 185,
+    "basePrice": 250,
     "addOnPrice": 90,
     "type": "Furniture"
   },
   {
     "id": 23,
     "name": "XL Armoire",
-    "basePrice": 225,
+    "basePrice": 300,
     "addOnPrice": 115,
     "type": "Furniture"
   },
   {
     "id": 24,
     "name": "Small Entertainment Center",
-    "basePrice": 95,
+    "basePrice": 150,
     "addOnPrice": 50,
     "type": "Furniture"
   },
   {
     "id": 25,
     "name": "Standard Entertainment Center",
-    "basePrice": 150,
+    "basePrice": 199,
     "addOnPrice": 75,
     "type": "Furniture"
   },
   {
     "id": 26,
     "name": "Large Entertainment Center",
-    "basePrice": 185,
+    "basePrice": 250,
     "addOnPrice": 90,
     "type": "Furniture"
   },
   {
     "id": 27,
     "name": "XL Entertainment Center",
-    "basePrice": 225,
+    "basePrice": 300,
     "addOnPrice": 115,
     "type": "Furniture"
   },
   {
     "id": 28,
     "name": "Adjustable Bed Base",
-    "basePrice": 95,
+    "basePrice": 150,
     "addOnPrice": 50,
     "type": "Furniture"
   },
   {
     "id": 29,
     "name": "Small Aquarium",
-    "basePrice": 95,
+    "basePrice": 150,
     "addOnPrice": 10,
     "type": "Furniture"
   },
   {
     "id": 30,
     "name": "Medium Aquarium",
-    "basePrice": 125,
+    "basePrice": 185,
     "addOnPrice": 30,
     "type": "Furniture"
   },
   {
     "id": 31,
     "name": "Large Aquarium",
-    "basePrice": 150,
+    "basePrice": 225,
     "addOnPrice": 50,
     "type": "Furniture"
   },
   {
     "id": 32,
     "name": "XL Aquarium",
-    "basePrice": 225,
+    "basePrice": 250,
     "addOnPrice": 75,
     "type": "Furniture"
   },
   {
     "id": 33,
     "name": "Small Area Rug (Up to 6x9)",
-    "basePrice": 95,
+    "basePrice": 150,
     "addOnPrice": 10,
     "type": "Furniture"
   },
   {
     "id": 34,
     "name": "Medium Area Rug (Up to 12x14)",
-    "basePrice": 125,
+    "basePrice": 185,
     "addOnPrice": 25,
     "type": "Furniture"
   },
   {
     "id": 35,
     "name": "Large Area Rug (Over 12x14)",
-    "basePrice": 150,
+    "basePrice": 225,
     "addOnPrice": 40,
     "type": "Furniture"
   },
