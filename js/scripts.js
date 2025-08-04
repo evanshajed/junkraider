@@ -1050,7 +1050,7 @@
     {
       "id": 36,
       "name": "Loveseat",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Furniture"
     },
@@ -1078,63 +1078,63 @@
     {
       "id": 40,
       "name": "Bed Frame",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 10,
       "type": "Furniture"
     },
     {
       "id": 41,
       "name": "Small Bookshelf",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 20,
       "type": "Furniture"
     },
     {
       "id": 42,
       "name": "Standard Bookshelf",
-      "basePrice": 125,
+      "basePrice": 185,
       "addOnPrice": 50,
       "type": "Furniture"
     },
     {
       "id": 43,
       "name": "Large Bookshelf",
-      "basePrice": 150,
+      "basePrice": 199,
       "addOnPrice": 75,
       "type": "Furniture"
     },
     {
       "id": 44,
       "name": "XL Bookshelf",
-      "basePrice": 185,
+      "basePrice": 225,
       "addOnPrice": 90,
       "type": "Furniture"
     },
     {
       "id": 45,
       "name": "Bike",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 10,
       "type": "Furniture"
     },
     {
       "id": 46,
       "name": "Bench",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 10,
       "type": "Furniture"
     },
     {
       "id": 47,
       "name": "Small Cabinet",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 20,
       "type": "Furniture"
     },
     {
       "id": 48,
       "name": "Standard Cabinet",
-      "basePrice": 125,
+      "basePrice": 199,
       "addOnPrice": 50,
       "type": "Furniture"
     },
