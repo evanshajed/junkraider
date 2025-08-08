@@ -1141,56 +1141,56 @@
     {
       "id": 49,
       "name": "Large Cabinet",
-      "basePrice": 150,
+      "basePrice": 255,
       "addOnPrice": 75,
       "type": "Furniture"
     },
     {
       "id": 50,
       "name": "XL Cabinet",
-      "basePrice": 185,
+      "basePrice": 250,
       "addOnPrice": 90,
       "type": "Furniture"
     },
     {
       "id": 51,
       "name": "Chaise Lounge",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Furniture"
     },
     {
       "id": 52,
       "name": "Chest",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Furniture"
     },
     {
       "id": 53,
       "name": "Small China Cabinet",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Furniture"
     },
     {
       "id": 54,
       "name": "Standard China Cabinet",
-      "basePrice": 125,
+      "basePrice": 199,
       "addOnPrice": 60,
       "type": "Furniture"
     },
     {
       "id": 55,
       "name": "Large China Cabinet",
-      "basePrice": 150,
+      "basePrice": 225,
       "addOnPrice": 70,
       "type": "Furniture"
     },
     {
       "id": 56,
       "name": "Daybed",
-      "basePrice": 125,
+      "basePrice": 150,
       "addOnPrice": 60,
       "type": "Furniture"
     },
@@ -1204,28 +1204,28 @@
     {
       "id": 58,
       "name": "Small Desk",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Furniture"
     },
     {
       "id": 59,
       "name": "Standard Desk (L Shaped)",
-      "basePrice": 125,
+      "basePrice": 199,
       "addOnPrice": 60,
       "type": "Furniture"
     },
     {
       "id": 60,
       "name": "Large Desk ",
-      "basePrice": 150,
+      "basePrice": 250,
       "addOnPrice": 70,
       "type": "Furniture"
     },
     {
       "id": 61,
       "name": "Small File Cabinet",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 20,
       "type": "Furniture"
     },
@@ -1239,14 +1239,14 @@
     {
       "id": 63,
       "name": "XL Large File Cabinet",
-      "basePrice": 150,
+      "basePrice": 250,
       "addOnPrice": 70,
       "type": "Furniture"
     },
     {
       "id": 64,
       "name": "Standard Upright Piano",
-      "basePrice": 299,
+      "basePrice": 249,
       "addOnPrice": 249,
       "type": "Furniture"
     },
@@ -1274,91 +1274,91 @@
     {
       "id": 68,
       "name": "TV",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 30,
       "type": "Electronics"
     },
     {
       "id": 69,
       "name": "Large TV",
-      "basePrice": 125,
+      "basePrice": 199,
       "addOnPrice": 50,
       "type": "Electronics"
     },
     {
       "id": 70,
       "name": "XL TV",
-      "basePrice": 150,
+      "basePrice": 225,
       "addOnPrice": 50,
       "type": "Electronics"
     },
     {
       "id": 71,
       "name": "Washing Machine",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Electronics"
     },
     {
       "id": 72,
       "name": "Dryer",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Electronics"
     },
     {
       "id": 73,
       "name": "Refrigerator",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Electronics"
     },
     {
       "id": 74,
       "name": "Small Treadmill",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Electronics"
     },
     {
       "id": 75,
       "name": "Standard Treadmill",
-      "basePrice": 150,
+      "basePrice": 199,
       "addOnPrice": 75,
       "type": "Electronics"
     },
     {
       "id": 76,
       "name": "Large Treadmill",
-      "basePrice": 185,
+      "basePrice": 250,
       "addOnPrice": 90,
       "type": "Electronics"
     },
     {
       "id": 77,
       "name": "Small AC Unit",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Electronics"
     },
     {
       "id": 78,
       "name": "Large AC Unit",
-      "basePrice": 150,
+      "basePrice": 199,
       "addOnPrice": 75,
       "type": "Electronics"
     },
     {
       "id": 79,
       "name": "Standard Freezer",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Electronics"
     },
     {
       "id": 80,
       "name": "Large Freezer",
-      "basePrice": 150,
+      "basePrice": 199,
       "addOnPrice": 70,
       "type": "Electronics"
     },
@@ -1372,14 +1372,14 @@
     {
       "id": 82,
       "name": "Standard Refrigerator",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Electronics"
     },
     {
       "id": 83,
       "name": "Large Refrigerator",
-      "basePrice": 150,
+      "basePrice": 199,
       "addOnPrice": 70,
       "type": "Electronics"
     },
@@ -1393,84 +1393,84 @@
     {
       "id": 85,
       "name": "Microwave",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 20,
       "type": "Electronics"
     },
     {
       "id": 86,
       "name": "Dishwasher",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Electronics"
     },
     {
       "id": 87,
       "name": "Small Ice Maker",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Electronics"
     },
     {
       "id": 88,
       "name": "Commercial Ice Maker",
-      "basePrice": 150,
+      "basePrice": 199,
       "addOnPrice": 70,
       "type": "Electronics"
     },
     {
       "id": 89,
       "name": "Small Vending Machine",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Electronics"
     },
     {
       "id": 90,
       "name": "Large Vendine Machine",
-      "basePrice": 150,
+      "basePrice": 199,
       "addOnPrice": 70,
       "type": "Electronics"
     },
     {
       "id": 91,
       "name": "XL Vendine Machine",
-      "basePrice": 225,
+      "basePrice": 250,
       "addOnPrice": 110,
       "type": "Electronics"
     },
     {
       "id": 92,
       "name": "Standard Elliptical ",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Electronics"
     },
     {
       "id": 93,
       "name": "Commercial Elliptical",
-      "basePrice": 150,
+      "basePrice": 199,
       "addOnPrice": 70,
       "type": "Electronics"
     },
     {
       "id": 94,
       "name": "Exercise Bike ",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 20,
       "type": "Electronics"
     },
     {
       "id": 95,
       "name": "Small Home Gym",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 40,
       "type": "Electronics"
     },
     {
       "id": 96,
       "name": "Medium Home Gym",
-      "basePrice": 150,
+      "basePrice": 199,
       "addOnPrice": 70,
       "type": "Electronics"
     },
@@ -1484,7 +1484,7 @@
     {
       "id": 98,
       "name": "Basketball Goal",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Outdoor"
     },
@@ -1512,70 +1512,70 @@
     {
       "id": 102,
       "name": "Small Above Ground Pool (Disassembled)",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 45,
       "type": "Outdoor"
     },
     {
       "id": 103,
       "name": "Large Above Ground Pool (Disassembled)",
-      "basePrice": 175,
+      "basePrice": 250,
       "addOnPrice": 150,
       "type": "Outdoor"
     },
     {
       "id": 104,
       "name": "XL Above Ground Ppol (Disassembled)",
-      "basePrice": 225,
+      "basePrice": 350,
       "addOnPrice": 200,
       "type": "Outdoor"
     },
     {
       "id": 105,
       "name": "Push Lawnmower",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 30,
       "type": "Outdoor"
     },
     {
       "id": 106,
       "name": "Riding Lawnmower",
-      "basePrice": 119,
+      "basePrice": 199,
       "addOnPrice": 75,
       "type": "Outdoor"
     },
     {
       "id": 107,
       "name": "Small Grill",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 45,
       "type": "Outdoor"
     },
     {
       "id": 108,
       "name": "Small Shed (Disassembled)",
-      "basePrice": 199,
+      "basePrice": 250,
       "addOnPrice": 149,
       "type": "Outdoor"
     },
     {
       "id": 109,
       "name": "Medium Shed (Disassembled",
-      "basePrice": 499,
+      "basePrice": 350,
       "addOnPrice": 399,
       "type": "Outdoor"
     },
     {
       "id": 110,
       "name": "Large Shed (Disassembled)",
-      "basePrice": 799,
+      "basePrice": 450,
       "addOnPrice": 699,
       "type": "Outdoor"
     },
     {
       "id": 111,
       "name": "Trampoline (Disassembled)",
-      "basePrice": 150,
+      "basePrice": 185,
       "addOnPrice": 95,
       "type": "Outdoor"
     },
