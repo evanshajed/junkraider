@@ -847,42 +847,42 @@
     {
       "id": 7,
       "name": "Boxspring",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 30,
       "type": "Furniture"
     },
     {
       "id": 8,
       "name": "Dresser",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 30,
       "type": "Furniture"
     },
     {
       "id": 9,
       "name": "Recliner",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Furniture"
     },
     {
       "id": 10,
       "name": "Side Table",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 10,
       "type": "Furniture"
     },
     {
       "id": 11,
       "name": "Dining Room Chair",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 10,
       "type": "Furniture"
     },
     {
       "id": 12,
       "name": "Oversized Chair",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Furniture"
     },
@@ -1197,7 +1197,7 @@
     {
       "id": 57,
       "name": "Grandfather Clock",
-      "basePrice": 119,
+      "basePrice": 199,
       "addOnPrice": 50,
       "type": "Furniture"
     },
