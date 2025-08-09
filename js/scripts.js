@@ -1582,49 +1582,49 @@
     {
       "id": 112,
       "name": "Deck Box",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 20,
       "type": "Outdoor"
     },
     {
       "id": 113,
       "name": "Small Fountain",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 50,
       "type": "Outdoor"
     },
     {
       "id": 114,
       "name": "Medium Fountain",
-      "basePrice": 150,
+      "basePrice": 199,
       "addOnPrice": 70,
       "type": "Outdoor"
     },
     {
       "id": 115,
       "name": "Large Fountain",
-      "basePrice": 225,
+      "basePrice": 250,
       "addOnPrice": 110,
       "type": "Outdoor"
     },
     {
       "id": 116,
       "name": "Small Planter Box/Pot",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 10,
       "type": "Outdoor"
     },
     {
       "id": 117,
       "name": "Medium Planter Box/Pot",
-      "basePrice": 125,
+      "basePrice": 185,
       "addOnPrice": 30,
       "type": "Outdoor"
     },
     {
       "id": 118,
       "name": "Large Planter Box/Pot",
-      "basePrice": 150,
+      "basePrice": 225,
       "addOnPrice": 70,
       "type": "Outdoor"
     },
@@ -1638,42 +1638,42 @@
     {
       "id": 120,
       "name": "Cardboard Boxes",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 7,
       "type": "Miscellaneous"
     },
     {
       "id": 121,
       "name": "Books, DVD's, CD's",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 7,
       "type": "Miscellaneous"
     },
     {
       "id": 122,
       "name": "Trash Bag (Standard or Contractor)",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 7,
       "type": "Miscellaneous"
     },
     {
       "id": 123,
       "name": "Small Unlisted Item",
-      "basePrice": 119,
+      "basePrice": 150,
       "addOnPrice": 30,
       "type": "Miscellaneous"
     },
     {
       "id": 124,
       "name": "Medium Unlisted Item",
-      "basePrice": 150,
+      "basePrice": 185,
       "addOnPrice": 70,
       "type": "Miscellaneous"
     },
     {
       "id": 125,
       "name": "Large Unlisted Item",
-      "basePrice": 300,
+      "basePrice": 250,
       "addOnPrice": 140,
       "type": "Miscellaneous"
     }
