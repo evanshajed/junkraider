@@ -44,42 +44,42 @@
   {
     "id": 7,
     "name": "Boxspring",
-    "basePrice": 95,
+    "basePrice": 150,
     "addOnPrice": 30,
     "type": "Furniture"
   },
   {
     "id": 8,
     "name": "Dresser",
-    "basePrice": 95,
+    "basePrice": 150,
     "addOnPrice": 30,
     "type": "Furniture"
   },
   {
     "id": 9,
     "name": "Recliner",
-    "basePrice": 95,
+    "basePrice": 150,
     "addOnPrice": 50,
     "type": "Furniture"
   },
   {
     "id": 10,
     "name": "Side Table",
-    "basePrice": 95,
+    "basePrice": 150,
     "addOnPrice": 10,
     "type": "Furniture"
   },
   {
     "id": 11,
     "name": "Dining Room Chair",
-    "basePrice": 95,
+    "basePrice": 150,
     "addOnPrice": 10,
     "type": "Furniture"
   },
   {
     "id": 12,
     "name": "Oversized Chair",
-    "basePrice": 95,
+    "basePrice": 150,
     "addOnPrice": 50,
     "type": "Furniture"
   },
